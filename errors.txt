@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 56: expected 'comma or end of line' not found.
+    $ renpy.pause(0.0166);
+    ^
+
+Ren'Py Version: Ren'Py 6.99.8.959
